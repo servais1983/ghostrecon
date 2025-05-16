@@ -1,0 +1,5 @@
+name: Tentative de mouvement latéral
+steps:
+  - type: smb
+  - type: lateral_move
+    user: admin_test
